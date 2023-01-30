@@ -1,0 +1,6 @@
+{
+    "public": false,
+    "redirects": [
+      { "source": "/", "destination": "https://github.com/nzws/nzws.app", "permanent": false }
+    ]
+}
